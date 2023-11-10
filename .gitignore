@@ -1,0 +1,4 @@
+*.pth
+*.tif
+.DS_Store
+*.png
